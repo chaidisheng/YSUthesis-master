@@ -1,0 +1,23 @@
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {2-1}{\ignorespaces 基于梯度的一阶优化算法\relax }}{11}{table.caption.9}%
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {3-1}{\ignorespaces 不同算法在Set12上获得的平均PSNR(dB)比较\relax }}{34}{table.caption.21}%
+\contentsline {table}{\numberline {3-2}{\ignorespaces 实谱归一化的不同算法在Set12上获得的平均PSNR(dB)比较\relax }}{34}{table.caption.22}%
+\contentsline {table}{\numberline {3-3}{\ignorespaces 不同算法在不同尺寸图片上的运行时间(s)\relax }}{35}{table.caption.23}%
+\contentsline {table}{\numberline {3-4}{\ignorespaces 不同算法在DnCNN下获得平均PSNR(dB)/SSIM比较\relax }}{37}{table.caption.27}%
+\contentsline {table}{\numberline {3-5}{\ignorespaces 不同算法在IRCNN下获得平均PSNR(dB)/SSIM比较\relax }}{37}{table.caption.28}%
+\contentsline {table}{\numberline {3-6}{\ignorespaces 不同算法不同去噪器在Barbara上的运行时间(s)(SNR=25dB)\relax }}{37}{table.caption.29}%
+\contentsline {table}{\numberline {3-7}{\ignorespaces 不同算法在DnCNN下获得平均PSNR(dB)/SSIM比较\relax }}{39}{table.caption.33}%
+\contentsline {table}{\numberline {3-8}{\ignorespaces 不同算法在IRCNN下获得平均PSNR(dB)/SSIM比较\relax }}{39}{table.caption.34}%
+\contentsline {table}{\numberline {3-9}{\ignorespaces 不同算法不同去噪器在Barbara上的运行时间(s)(alpha=81)\relax }}{40}{table.caption.35}%
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {4-1}{\ignorespaces 不同mini-batch不同去噪器下获得平均PSNR/SSIM/Avg-time比较\relax }}{45}{table.caption.40}%
+\contentsline {table}{\numberline {4-2}{\ignorespaces 不同mini-batch在不同去噪器下获得平均PSNR/SSIM/Avg-Time比较\relax }}{47}{table.caption.44}%
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {5-1}{\ignorespaces 不同采样率下算法在MNIST上获得的平均PSNR/SSIM比较\relax }}{55}{table.caption.50}%
+\contentsline {table}{\numberline {5-2}{\ignorespaces 不同采样率下算法在CelebA上获得的平均PSNR/SSIM比较\relax }}{55}{table.caption.51}%
+\addvspace {10.0pt}
+\addvspace {10.0pt}

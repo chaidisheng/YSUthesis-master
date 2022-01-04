@@ -1,0 +1,33 @@
+% !Mode:: "TeX:UTF-8"
+\begin{abstract}
+%\the\abovedisplayskip \the\belowdisplayskip \the\abovedisplayshortskip \the\belowdisplayshortskip
+\songti\textbf{非凸优化是优化领域中的前沿研究方向，}近年来利用非凸优化方法来解决统计估计和机器学习问题的研究工作层出不穷。另外，深度学习的崛起使得计算机视觉领域中基于监督学习的算法在精度和速度方面取得了巨大的提升。相位恢复(Phase Retrieval，PR)作为典型的非凸问题，如何结合非凸优化与深度学习构建有效的求解算法一直是该领域的难点。本文具体研究内容及创新点可以归纳如下：
+
+首先，为解决编码衍射模型中的相位恢复问题，本文提出了基于共识方程的编码衍射成像算法(Two-Agent Consensus Equilibrium，TACE)。该算法将编码衍射模型对应数据保真项的近邻算子与盲去噪器算子置于共识方程之中作为待求解的优化方程，TACE算法迭代致使数据保真项的近邻算子与盲去噪器趋于纳什均衡点。在一般性的假设条件下，本文给出了MACE(Multi-Agent Consensus Equilibrium)算法的严格收敛性证明。数值和视觉实验结果表明在重构实图像时，该算法能较好的恢复图像的细节、纹理等信息，具有明显的优势。
+
+其次，为解决面向大规模编码衍射图案的相位恢复问题，本文提出了基于一阶随机优化的加速编码衍射成像算法(Consensus Equilibrium with Stochastic Optimization，SOCE)。该算法利用观测值的可分离特征，利用一阶随机优化算法进行求解，每次迭代随机地选取编码衍射图案的一个子集计算数据保真项的梯度，可以看作是TACE算法的加速版本。数值和视觉实验结果表明该算法在编码衍射模型下，能够有效处理大规模编码衍射图案。
+
+最后，为解决欠采样率下现有压缩相位恢复算法重建质量低的问题，本文提出了基于深度图像先验融合RED(Regularization by Denoising)正则项的压缩相位恢复算法(Deep Phase Retrieval with RED，DPR-RED)。该算法将显式的RED先验作为正则项添加到隐式的深度图像先验损失函数中，利用交替方向乘子法(Alternating Direction Method of Multipliers，ADMM)进行有效求解。数值和视觉实验结果表明在欠采样率的观测值下该算法可以重构高质量图像，并且对高斯与泊松噪声鲁棒。
+\end{abstract}
+
+\begin{keywords}
+相位恢复；非凸优化；深度学习；共识均衡；一阶随机优化；深度图像先验
+\end{keywords}
+
+%\cleardoublepage
+ 
+\begin{englishabstract}
+Non-convex optimization is the research frontier of optimization, recent years have seen a flurry of activities in designing provably efficient non-convex procedures for solving statistical estimation and machine learning problems. In addition, the rise of deep learning has greatly improved the accuracy and speed of algorithms based on supervised learning in computer vision. As a typical non-convex problem, how to combine non-convex optimization with deep learning to construct an effective solving algorithm has always been a difficult problem in this field. The concrete research contents and innovative achievements are as follows: 
+
+Firstly, in order to solve the phase retrieval problem in the coded diffraction model, the proposed method, named Two-Agent Consensus Equilibrium(TACE), is a coded diffraction imaging algorithm based on consensus equation. In this algorithm, the proximal operator of the corresponding data fidelity term in the coded diffraction model and blind denoising operator are placed in the consensus equation as the optimization equation to be solved. The iterative algorithm results the proximal operator of the data fidelity term and the blind denoiser tend to nash equilibrium point. Multi-Agent Consensus Equilibrium(MACE) is guaranteed to converge under mild conditions. The numerical and visual experiments show that the algorithm can recover more details, textures, etc. information and has obvious advantages in reconstructing real images. 
+
+Secondly, in order to solve the phase retrieval problem faced to large-scale coded diffraction patterns, the proposed method, named Consensus Equilibrium with Stochastic Optimization(SOCE), is an accelerated coded diffraction imaging algorithm based on first-order stochastic optimization. The algorithm utilizes the separable features of the observations and solves them using the first-order stochastic optimization algorithm, selecting a subset of coded diffraction patterns randomly at each iteration to calculate the gradient of the data fidelity term, which can be seen as an accelerated version of the TACE algorithm. The results of numerical and visual experiments show that the algorithm can effectively deal with large-scale coded diffraction patterns. 
+
+Finally, in order to solve the problem of low reconstruction quality of existing compressive phase retrieval algorithms under under-sampling rate, the proposed method, named Deep Phase Retrieval with Regularization by Denoising(DPR-RED), is a compressive phase retrieval algorithm based on Deep Image Prior fused Regularization by Denoising(RED) term. The algorithm adds the displayed RED prior as a regular term to the implicit deep image prior loss function and uses the Alternating Direction Method of Multipliers(ADMM) algorithm to solve it effectively. The numerical and visual experiments show that the algorithm can reconstruct high-quality images under the under-sampling rate and is robust to Gaussian and Poisson noises. 
+\end{englishabstract}
+
+\begin{englishkeywords}
+phase retrieval; non-convex optimization; deep learning; consensus equilibrium; first-order stochastic optimization; deep image prior
+\end{englishkeywords} 
+
+\cleardoublepage

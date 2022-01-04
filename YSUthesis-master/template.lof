@@ -1,0 +1,167 @@
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {1-1}{\ignorespaces Barbara与Pollen交换傅里叶相位后的重构示意图\relax }}{1}{figure.caption.6}%
+\contentsline {figure}{\numberline {1-2}{\ignorespaces 散射介质成像装置示意图\relax }}{4}{figure.caption.7}%
+\contentsline {figure}{\numberline {1-3}{\ignorespaces 编码衍射成像系统示意图\relax }}{5}{figure.caption.8}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {2-1}{\ignorespaces 激活函数示意图\relax }}{18}{figure.caption.10}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sigmod型激活函数}}}{18}{figure.caption.10}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {ReLU激活函数及其变体}}}{18}{figure.caption.10}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces VGG16网络架构\relax }}{19}{figure.caption.11}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces Inception块基本结构\relax }}{19}{figure.caption.12}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces ResNet网络架构\relax }}{20}{figure.caption.13}%
+\contentsline {figure}{\numberline {2-5}{\ignorespaces GAN网络架构\relax }}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {2-6}{\ignorespaces U-net网络架构\relax }}{21}{figure.caption.15}%
+\contentsline {figure}{\numberline {2-7}{\ignorespaces DnCNN网络架构\relax }}{22}{figure.caption.16}%
+\contentsline {figure}{\numberline {2-8}{\ignorespaces IRCNN网络架构\relax }}{23}{figure.caption.17}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {3-1}{\ignorespaces TACE算法示意图\relax }}{24}{figure.caption.18}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces 去噪器局部齐次性评估散点图\relax }}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {DnCNN(3.74e-4)}}}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {IRCNN(3.33e-4)}}}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {realSN-DnCNN(3.49e-4)}}}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {realSN-IRCNN(3.47e-4)}}}{30}{figure.caption.19}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces TACE算法第$k+1$次迭代示意图\relax }}{33}{figure.caption.20}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces 不同去噪算法的去噪效果图($\mitsigma =25$)\relax }}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {original image}}}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {noisy image/20.17dB}}}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BM3D/29.39dB}}}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {DnCNN-S/30.39dB}}}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {DnCNN-B/30.38dB}}}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {IRCNN-S/30.26dB}}}{35}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {IRCNN-B/30.11dB}}}{35}{figure.caption.24}%
+\contentsline {figure}{\numberline {3-5}{\ignorespaces 实谱归一化不同去噪算法的去噪效果图($\mitsigma =25$)\relax }}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {original image}}}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {noisy image/20.17dB}}}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BM3D/29.39dB}}}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\tiny {realSN-DnCNN-S/30.37dB}}}}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {\tiny {realSN-DnCNN-B/30.38dB}}}}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {\tiny {realSN-IRCNN-S/30.29dB}}}}{36}{figure.caption.25}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {\tiny {realSN-IRCNN-B/30.07dB}}}}{36}{figure.caption.25}%
+\contentsline {figure}{\numberline {3-6}{\ignorespaces Phase-only SLM示意图\relax }}{36}{figure.caption.26}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$M_1$}}}{36}{figure.caption.26}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$M_2$}}}{36}{figure.caption.26}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$M_3$}}}{36}{figure.caption.26}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$M_4$}}}{36}{figure.caption.26}%
+\contentsline {figure}{\numberline {3-7}{\ignorespaces Barbara与Pollen重构结果(SNR=15dB,DnCNN)\relax }}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {prDeep/31.10}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PnP-ADMM/31.36}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PnP-FBS/31.51}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {TACE/31.43}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Original}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {prDeep/31.24}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {PnP-ADMM/32.90}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {PnP-FBS/33.01}}}{38}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {TACE/32.92}}}{38}{figure.caption.30}%
+\contentsline {figure}{\numberline {3-8}{\ignorespaces Barbara与Pollen重构结果(SNR=15dB,IRCNN)\relax }}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {prDeep/30.38}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PnP-ADMM/30.55}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PnP-FBS/31.00}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {TACE/30.60}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Original}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {prDeep/30.96}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {PnP-ADMM/32.56}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {PnP-FBS/32.72}}}{38}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {TACE/32.58}}}{38}{figure.caption.31}%
+\contentsline {figure}{\numberline {3-9}{\ignorespaces PnP-ADMM与TACE算法在迭代过程中的利普希茨常数分布直方图\relax }}{39}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\scriptsize PnP-ADMM(DnCNN)}}}{39}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\scriptsize TACE(DnCNN)}}}{39}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\scriptsize PnP-ADMM(IRCNN)}}}{39}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\scriptsize TACE(IRCNN)}}}{39}{figure.caption.32}%
+\contentsline {figure}{\numberline {3-10}{\ignorespaces Barbara与Pollen重构结果(alpha=81,DnCNN)\relax }}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\scriptsize Original}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\scriptsize prDeep/27.25}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\scriptsize PnP-ADMM/26.80}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\scriptsize PnP-FBS/27.26}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {\scriptsize TACE/26.89}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {\scriptsize Original}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {\scriptsize prDeep/25.80}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {\scriptsize PnP-ADMM/25.45}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {\scriptsize PnP-FBS/25.82}}}{40}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {\scriptsize TACE/25.55}}}{40}{figure.caption.36}%
+\contentsline {figure}{\numberline {3-11}{\ignorespaces Barbara与Pollen重构结果(alpha=81,IRCNN)\relax }}{40}{figure.caption.37}%
+\contentsline {figure}{\numberline {3-12}{\ignorespaces PnP-ADMM与TACE算法在迭代过程中的利普希茨常数分布直方图\relax }}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\scriptsize Original}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\scriptsize prDeep/26.86}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\scriptsize PnP-ADMM/26.54}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\scriptsize PnP-FBS/26.88}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {\scriptsize TACE/26.57}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {\scriptsize Original}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {\scriptsize prDeep/25.80}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {\scriptsize PnP-ADMM/25.53}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {\scriptsize PnP-FBS/25.81}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {\scriptsize TACE/25.61}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\scriptsize PnP-ADMM(DnCNN)}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\scriptsize TACE(DnCNN)}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\scriptsize PnP-ADMM(IRCNN)}}}{41}{figure.caption.38}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\scriptsize TACE(IRCNN)}}}{41}{figure.caption.38}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {4-1}{\ignorespaces SOCE算法结构示意图\relax }}{42}{figure.caption.39}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces SOCE算法在DnCNN下不同mini-batch的重构结果\relax }}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {fix 1/27.61}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {B=1/30.64}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {fix 4/34.31}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Original}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {fix 1/28.44}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {B=1/32.50}}}{46}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {fix 4/32.92}}}{46}{figure.caption.41}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces SOCE算法在IRCNN下不同mini-batch的重构结果\relax }}{46}{figure.caption.42}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces SOCE算法在迭代过程中的利普希茨常数分布直方图(DnCNN)\relax }}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {fix 1/27.26}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {B=1/29.87}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {fix 4/32.58}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Original}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {fix 1/28.34}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {B=1/32.34}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {fix 4/30.60}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {fix 1}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {B=1}}}{47}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {fix 4}}}{47}{figure.caption.43}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces SOCE算法在DnCNN下不同mini-batch的重构结果\relax }}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {fix 1/24.20}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {B=1/26.64}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {fix 4/26.89}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Original}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {fix 1/22.39}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {B=1/25.49}}}{48}{figure.caption.45}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {fix 4/25.55}}}{48}{figure.caption.45}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces SOCE算法在IRCNN下不同mini-batch的重构结果\relax }}{48}{figure.caption.46}%
+\contentsline {figure}{\numberline {4-7}{\ignorespaces SOCE算法在迭代过程中的利普希茨常数分布直方图(IRCNN)\relax }}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {fix 1/23.92}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {B=1/26.42}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {fix 4/26.57}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Original}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {fix 1/22.58}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {B=1/25.09}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {fix 4/25.61}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {fix 1}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {B=1}}}{49}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {fix 4}}}{49}{figure.caption.47}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {5-1}{\ignorespaces DPR-RED算法结构示意图\relax }}{50}{figure.caption.48}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces 去噪器与网络参数并行示意图\relax }}{54}{figure.caption.49}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces DPR与DPR-RED在MNIST上采样率为$m/n=0.6$时的重构结果\relax }}{55}{figure.caption.52}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {原始图像}}}{55}{figure.caption.52}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {DPR算法重构结果图}}}{55}{figure.caption.52}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {DPR-RED算法重构结果图}}}{55}{figure.caption.52}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces DPR与DPR-RED在CelebA上采样为$m/n=0.3$时的重构结果\relax }}{55}{figure.caption.53}%
+\contentsline {figure}{\numberline {5-5}{\ignorespaces DPR与DPR-RED在SNR=15dB、采样率为$m/n=0.6$时的重构结果\relax }}{56}{figure.caption.54}%
+\contentsline {figure}{\numberline {5-6}{\ignorespaces DPR与DPR-RED在alpha=81、采样率为$m/n=0.6$时的重构结果\relax }}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {原始图像}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {DPR算法重构结果图}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {DPR-RED算法重构结果图}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {原始图像}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {DPR算法重构结果图}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {DPR-RED算法重构结果图}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {原始图像}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {DPR算法}}}{56}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {DPR-RED算法重构结果图}}}{56}{figure.caption.55}%
+\addvspace {10.0pt}
+\addvspace {10.0pt}

@@ -1,0 +1,60 @@
+\let \CTEX@spaceChar \relax 
+\contentsline {chapter}{摘\hskip 1em\relax 要}{I}{chapter*.1}%
+\contentsline {chapter}{Abstract}{II}{chapter*.2}%
+\contentsline {chapter}{\numberline {第\nobreakspace {}1\nobreakspace {}章\hspace {.3em}}绪\hskip 1em\relax 论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}引言}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}课题研究背景及意义}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}国内外研究现状}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}国内研究现状}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}国外研究现状}{3}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}研究内容及结构安排}{4}{section.1.4}%
+\contentsline {chapter}{\numberline {第\nobreakspace {}2\nobreakspace {}章\hspace {.3em}}非凸优化与深度学习基本理论}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}引言}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}非凸优化的基本问题与优化算法}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}主要概念}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}基本的非凸问题}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}基本的非凸优化算法}{10}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}基于梯度的一阶优化算法}{11}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}凸和非凸ADMM算法}{14}{subsubsection.2.2.3.2}%
+\contentsline {section}{\numberline {2.3}深度学习基本原理与图像去噪应用}{16}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}深度卷积神经网络}{16}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}深度卷积神经网络基本组件}{17}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.2}深度卷积神经网络主要架构}{18}{subsubsection.2.3.1.2}%
+\contentsline {subsection}{\numberline {2.3.2}基于深度学习的图像去噪算法}{21}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}本章小结}{23}{section.2.4}%
+\contentsline {chapter}{\numberline {第\nobreakspace {}3\nobreakspace {}章\hspace {.3em}}基于共识方程的编码衍射成像算法}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}引言}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}图像去噪算法的利普希茨约束}{25}{section.3.2}%
+\contentsline {section}{\numberline {3.3}基于即插即用先验的编码衍射成像算法}{26}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}即插即用ADMM算法}{27}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}即插即用邻近梯度算法}{29}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}基于去噪正则化先验的编码衍射成像算法}{29}{section.3.4}%
+\contentsline {section}{\numberline {3.5}从共识优化到共识方程}{31}{section.3.5}%
+\contentsline {section}{\numberline {3.6}基于共识方程的编码衍射成像算法}{32}{section.3.6}%
+\contentsline {section}{\numberline {3.7}实验结果及分析}{36}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}实谱归一化有效性验证}{36}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}TACE及其对比算法参数设置}{38}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}抗高斯噪声模型}{38}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}抗泊松噪声模型}{41}{subsection.3.7.4}%
+\contentsline {section}{\numberline {3.8}本章小结}{43}{section.3.8}%
+\contentsline {chapter}{\numberline {第\nobreakspace {}4\nobreakspace {}章\hspace {.3em}}基于一阶随机优化的编码衍射成像算法}{44}{chapter.4}%
+\contentsline {section}{\numberline {4.1}引言}{44}{section.4.1}%
+\contentsline {section}{\numberline {4.2}基于梯度的一阶随机优化算法}{45}{section.4.2}%
+\contentsline {section}{\numberline {4.3}基于一阶随机优化的编码衍射成像算法}{46}{section.4.3}%
+\contentsline {section}{\numberline {4.4}实验结果及分析}{47}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}抗高斯噪声模型}{47}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}抗泊松噪声模型}{49}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}本章小结}{51}{section.4.5}%
+\contentsline {chapter}{\numberline {第\nobreakspace {}5\nobreakspace {}章\hspace {.3em}}基于深度图像先验的压缩相位恢复算法}{52}{chapter.5}%
+\contentsline {section}{\numberline {5.1}引言}{52}{section.5.1}%
+\contentsline {section}{\numberline {5.2}深度图像先验}{53}{section.5.2}%
+\contentsline {section}{\numberline {5.3}基于深度图像先验融合RED正则项的压缩相位恢复算法}{54}{section.5.3}%
+\contentsline {section}{\numberline {5.4}实验结果及分析}{56}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}无噪声情况下的压缩相位恢复}{56}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}含噪情况下的压缩相位恢复}{58}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}本章小结}{59}{section.5.5}%
+\contentsline {chapter}{结\hskip 1em\relax 论}{60}{chapter*.54}%
+\contentsline {chapter}{参考文献}{62}{chapter*.55}%
+\contentsline {chapter}{攻读硕士学位期间承担的科研任务与主要成果}{68}{chapter*.56}%
+\contentsline {chapter}{致\hskip 1em\relax 谢}{69}{chapter*.57}%
+\contentsfinish 

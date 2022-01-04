@@ -1,0 +1,508 @@
+\begin{thebibliography}{73}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Jaganathan et~al.(2015)Jaganathan, Eldar, and Hassibi]{Jaganathan}
+Jaganathan~K, Eldar~Y~C, Hassibi~B.
+\newblock Phase Retrieval: An Overview of Recent
+  Developments\allowbreak[EB/OL].
+\newblock \allowbreak(2015--10--26)\allowbreak[2021--3--5].
+\newblock \url{https://arxiv.org/abs/1510.07713}.
+
+\bibitem[Grohs et~al.(2019)Grohs, Koppensteiner, and Rathmair]{Grohs}
+Grohs~P, Koppensteiner~S, Rathmair~M.
+\newblock Phase Retrieval: Uniqueness and Stability\allowbreak[EB/OL].
+\newblock \allowbreak(2019--1--23)\allowbreak[2020--2--14].
+\newblock \url{https://arxiv.org/abs/1901.07911}.
+
+\bibitem[Tillmann et~al.(2016)Tillmann, Eldar, and Mairal]{Tillmann}
+Tillmann~A~M, Eldar~Y~C, Mairal~J.
+\newblock DOLPHIn-Dictionary Learning for Phase Retrieval\allowbreak[J].
+\newblock IEEE Transactions on Signal Processing, 2016, 64\allowbreak (24):
+  6485-6500.
+
+\bibitem[Cand{\`e}s et~al.(2015)Cand{\`e}s, Li, and Soltanolkotabi]{Candes}
+Cand{\`e}s~E~J, Li~X, Soltanolkotabi~M.
+\newblock Phase Retrieval from Coded Diffraction Patterns\allowbreak[J].
+\newblock Applied and Computational Harmonic Analysis, 2015, 39\allowbreak (2):
+  277-299.
+
+\bibitem[Gross et~al.(2017)Gross, Krahmer, and Kueng]{Gross}
+Gross~D, Krahmer~F, Kueng~R.
+\newblock Improved Recovery Guarantees for Phase Retrieval from Coded
+  Diffraction Patterns\allowbreak[J].
+\newblock Applied and Computational Harmonic Analysis, 2017, 42\allowbreak (1):
+  37-64.
+
+\bibitem[Shi et~al.(2018)Shi, Lian, Huang, and An]{Baoshun}
+Shi~B, Lian~Q, Huang~X, et~al.
+\newblock Constrained Phase Retrieval: When Alternating Projection Meets
+  Regularization\allowbreak[J].
+\newblock Journal of The Optical Society of America {B-optical} Physics, 2018,
+  35\allowbreak (6): 1271-1281.
+
+\bibitem[{Metzler} et~al.(2017){Metzler}, {Sharma}, {Nagesh}, {Baraniuk},
+  {Cossairt}, and {Veeraraghavan}]{Metzler0}
+{Metzler}~C~A, {Sharma}~M~K, {Nagesh}~S, et~al.
+\newblock Coherent Inverse Scattering via Transmission Matrices: Efficient
+  Phase Retrieval Algorithms and a Public Dataset\allowbreak[C]//\allowbreak
+Proceedings of International Conference on Computational Photography, Stanford,
+  USA, 2017: 1-16.
+
+\bibitem[练秋生，李颖，陈书贞(2018)]{LiYin}
+练秋生，李颖，陈书贞.
+\newblock
+  融合多种小波与全变差正则化的相位恢复算法\allowbreak[J].
+\newblock 光学学报, 2018, 38\allowbreak (2): 298-305.
+
+\bibitem[Hand et~al.(2018)Hand, Leong, and Voroninski]{Hand}
+Hand~P, Leong~O, Voroninski~V.
+\newblock Phase Retrieval Under a Generative Prior\allowbreak[C]//\allowbreak
+Proceedings of Neural Information Processing Systems, Montreal, Canada, 2018:
+  9136-9146.
+
+\bibitem[Jagatap et~al.(2019)Jagatap and Hegde]{Jagatap}
+Jagatap~G, Hegde~C.
+\newblock Algorithmic Guarantees for Inverse Imaging with Untrained Network
+  Priors\allowbreak[C]//\allowbreak
+Proceedings of Neural Information Processing Systems, Vancouver, Canada, 2019:
+  14832-14842.
+
+\bibitem[Uelwer et~al.(2019)Uelwer, Oberstrass, and Harmeling]{Tobias}
+Uelwer~T, Oberstrass~A, Harmeling~S.
+\newblock Phase Retrieval Using Conditional Generative Adversarial
+  Networks\allowbreak[EB/OL].
+\newblock \allowbreak(2019--12--10)\allowbreak[2020--6--8].
+\newblock \url{https://arxiv.org/abs/1912.04981}.
+
+\bibitem[Ulyanov et~al.(2020)Ulyanov, Vedaldi, and Lempitsky]{Ulyanov}
+Ulyanov~D, Vedaldi~A, Lempitsky~V~S.
+\newblock Deep Image Prior\allowbreak[J].
+\newblock International Journal of Computer Vision, 2020, 128\allowbreak (7):
+  1867-1888.
+
+\bibitem[Mataev et~al.(2019)Mataev, Milanfar, and Elad]{Mataev}
+Mataev~G, Milanfar~P, Elad~M.
+\newblock DeepRED: Deep Image Prior Powered by RED\allowbreak[C]//\allowbreak
+Proceedings of International Conference on Computer Vision, Seoul, Korea, 2019:
+  0-0.
+
+\bibitem[Kaixuan et~al.(2020)Kaixuan, Angelica, Jingwei, Ying, Carola-Bibiane,
+  and Hua]{Kaixuan}
+Kaixuan~W, Angelica~A~R, Jingwei~L, et~al.
+\newblock Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging
+  Problems\allowbreak[C]//\allowbreak
+Proceedings of International Conference on Machine Learning, {Vienna, Austria},
+  2020: 10158-10169.
+
+\bibitem[Metzler et~al.(2018)Metzler, Schniter, Veeraraghavan, and
+  Baraniuk]{Metzler1}
+Metzler~C~A, Schniter~P, Veeraraghavan~A, et~al.
+\newblock {prDeep:} Robust Phase Retrieval with a Flexible Deep
+  Network\allowbreak[C]//\allowbreak
+{Proceedings of International Conference on Machine Learning}, Stockholm,
+  Sweden, 2018: 3498-3507.
+
+\bibitem[Wang et~al.(2020)Wang, Juang, and Chan]{Xiran}
+Wang~X, Juang~J, Chan~S~H.
+\newblock Automatic Foreground Extraction from Imperfect Backgrounds Using
+  Multi-agent Consensus Equilibrium\allowbreak[J].
+\newblock Journal of Visual Communication and Image Representation, 2020,
+  72\allowbreak (1): 102-907.
+
+\bibitem[Boyd et~al.(2004)Boyd and Vandenberghe]{Stephen3}
+Boyd~S~P, Vandenberghe~L.
+\newblock Convex Optimization\allowbreak[M].
+\newblock Cambridge: Cambridge University Press, 2004: 127-188.
+
+\bibitem[Boyd et~al.(2010)Boyd, Parikh, Chu, Peleato, and Eckstein]{Stephen1}
+Boyd~S, Parikh~N, Chu~E, et~al.
+\newblock Distributed Optimization and Statistical Learning via the Alternating
+  Direction Method of Multipliers\allowbreak[J].
+\newblock Foundations and Trends in Machine Learning, 2010, 3\allowbreak (1):
+  13-56.
+
+\bibitem[Parikh et~al.(2014)Parikh and Boyd]{Stephen2}
+Parikh~N, Boyd~S.
+\newblock Proximal Algorithms\allowbreak[J].
+\newblock Foundations and Trends in Optimization, 2014, 1\allowbreak (3):
+  127-239.
+
+\bibitem[Goldstein et~al.(2014)Goldstein, Studer, and Baraniuk]{Goldstein}
+Goldstein~T, Studer~C, Baraniuk~R.
+\newblock A Field Guide to Forward-Backward Splitting with a FASTA
+  Implementation\allowbreak[EB/OL].
+\newblock \allowbreak(2014--11--13)\allowbreak[2016--10--28].
+\newblock \url{https://arxiv.org/abs/1901.07911}.
+
+\bibitem[Heide et~al.(2016)Heide, Diamond, Niener, Ragan-Kelley, Heidrich, and
+  Wetzstein]{Heide}
+Heide~F, Diamond~S, Niener~M, et~al.
+\newblock ProxImaL: Efficient Image Optimization Using Proximal
+  Algorithms\allowbreak[J].
+\newblock ACM Transactions on Graphics, 2016, 35\allowbreak (4): 84.
+
+\bibitem[M{\"{o}}llenhoff et~al.(2015)M{\"{o}}llenhoff, Strekalovskiy,
+  M{\"{o}}ller, and Cremers]{Thomas}
+M{\"{o}}llenhoff~T, Strekalovskiy~E, M{\"{o}}ller~M, et~al.
+\newblock The Primal-Dual Hybrid Gradient Method for Semiconvex
+  Splittings\allowbreak[J].
+\newblock SIAM Journal on Imaging Sciences, 2015, 8\allowbreak (2): 827-857.
+
+\bibitem[Chambolle et~al.(2011)Chambolle and Pock]{Chambolle1}
+Chambolle~A, Pock~T.
+\newblock A First-Order Primal-Dual Algorithm for Convex Problems with
+  Applications to Imaging\allowbreak[J].
+\newblock Journal of Mathematical Imaging and Vision, 2011, 40\allowbreak (1):
+  120-145.
+
+\bibitem[Burger et~al.(2014)Burger, Sawatzky, and Steidl]{Martin}
+Burger~M, Sawatzky~A, Steidl~G.
+\newblock First Order Algorithms in Variational Image
+  Processing\allowbreak[EB/OL].
+\newblock \allowbreak(2014--12--13)\allowbreak[2021--3--15].
+\newblock \url{https://arxiv.org/abs/1412.4237}.
+
+\bibitem[Chambolle et~al.(2018)Chambolle, Ehrhardt, Richt{\'{a}}rik, and
+  Sch{\"{o}}nlieb]{Chambolle2}
+Chambolle~A, Ehrhardt~M~J, Richt{\'{a}}rik~P, et~al.
+\newblock Stochastic Primal-Dual Hybrid Gradient Algorithm with Arbitrary
+  Sampling and Imaging Applications\allowbreak[J].
+\newblock SIAM Journal on Control and Optimization, 2018, 28\allowbreak (4):
+  2783-2808.
+
+\bibitem[Themelis et~al.(2020)Themelis and Patrinos]{Andreas}
+Themelis~A, Patrinos~P.
+\newblock Douglas-Rachford Splitting and {ADMM} for Non-convex Optimization:
+  Tight Convergence Results\allowbreak[J].
+\newblock SIAM Journal on Control and Optimization, 2020, 30\allowbreak (1):
+  149-181.
+
+\bibitem[{Xu} et~al.(2017){Xu}, {Figueiredo}, {Yuan}, {Studer}, and
+  {Goldstein}]{Xu}
+{Xu}~Z, {Figueiredo}~M~A~T, {Yuan}~X, et~al.
+\newblock Adaptive Relaxed ADMM: Convergence Theory and Practical
+  Implementation\allowbreak[C]//\allowbreak
+Proceedings of Computer Vision and Pattern Recognition, Honolulu, USA, 2017:
+  7234-7243.
+
+\bibitem[Bian et~al.(2019)Bian and Zhang]{Fengmiao}
+Bian~F, Zhang~X.
+\newblock A Parameterized Douglas-Rachford Splitting Algorithm for Non-convex
+  Optimization\allowbreak[EB/OL].
+\newblock \allowbreak(2019--12--12)\allowbreak[2020--6--16].
+\newblock \url{https://arxiv.org/abs/1910.05544}.
+
+\bibitem[潘少华，文再文(2020)]{PanShaohua}
+潘少华，文再文.
+\newblock 低秩稀疏矩阵优化问题的模型与算法\allowbreak[J].
+\newblock 运筹学学报, 2020, 24\allowbreak (03): 1-26.
+
+\bibitem[孙涛(2018)]{SunTao}
+孙涛.
+\newblock 机器学习中部分非凸和随机算法研究\allowbreak[D].
+\newblock 长沙:国防科技大学博士学位论文, 2018: 11-53.
+
+\bibitem[Jin et~al.(2017)Jin, Ge, Netrapalli, Kakade, and Jordan]{Chi}
+Jin~C, Ge~R, Netrapalli~P, et~al.
+\newblock How to Escape Saddle Points Efficiently\allowbreak[C]//\allowbreak
+{Proceedings of International Conference on Machine Learning}, Sydney,
+  Australia, 2017: 1724-1732.
+
+\bibitem[{Liu} et~al.(2020{\natexlab{a}}){Liu}, {Cheng}, {He}, {Fan}, {Lin},
+  and {Luo}]{Liu}
+{Liu}~R, {Cheng}~S, {He}~Y, et~al.
+\newblock On the Convergence of Learning-Based Iterative Methods for Non-convex
+  Inverse Problems\allowbreak[J].
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence,
+  2020{\natexlab{a}}, 42\allowbreak (12): 3027-3039.
+
+\bibitem[Sun(2018)]{Ruoyu}
+Sun~R.
+\newblock Optimization for Deep Learning: Theory and
+  Algorithms\allowbreak[EB/OL].
+\newblock \allowbreak(2018--12--19)\allowbreak[2020--3--15].
+\newblock \url{https://arxiv.org/abs/1912.08957}.
+
+\bibitem[Ma et~al.(2020)Ma, Wang, Chi, and Chen]{Cong}
+Ma~C, Wang~K, Chi~Y, et~al.
+\newblock Implicit Regularization in Non-convex Statistical Estimation:
+  Gradient Descent Converges Linearly for Phase Retrieval, Matrix Completion,
+  and Blind Deconvolution\allowbreak[J].
+\newblock Foundations of Computational Mathematics, 2020, 20\allowbreak (3):
+  451-632.
+
+\bibitem[Chen et~al.(2019)Chen, Liu, Sun, and Hong]{Xiangyi}
+Chen~X, Liu~S, Sun~R, et~al.
+\newblock On the Convergence of a Class of Adam-type Algorithms for Non-convex
+  Optimization\allowbreak[C]//\allowbreak
+{Proceedings of International Conference on Learning Representations}, New
+  Orleans, USA, 2019: 1724-1732.
+
+\bibitem[Danilova et~al.(2020)Danilova, Dvurechensky, Gasnikov, Gorbunov,
+  Guminov, Kamzolov, and Shibaev]{Danilova}
+Danilova~M, Dvurechensky~P, Gasnikov~A, et~al.
+\newblock Recent Theoretical Advances in Non-convex
+  Optimization\allowbreak[EB/OL].
+\newblock \allowbreak(2020--12--11)\allowbreak[2020--3--15].
+\newblock \url{https://arxiv.org/abs/2012.06188}.
+
+\bibitem[Zhou et~al.(2018)Zhou, Xu, and Gu]{Dongruo}
+Zhou~D, Xu~P, Gu~Q.
+\newblock Stochastic Nested Variance Reduction for Non-convex
+  Optimization\allowbreak[EB/OL].
+\newblock \allowbreak(2018--6--20)\allowbreak[2020--10--19].
+\newblock \url{https://arxiv.org/abs/2012.06188}.
+
+\bibitem[Krizhevsky et~al.(2017)Krizhevsky, Sutskever, and Hinton]{Alex}
+Krizhevsky~A, Sutskever~I, Hinton~G~E.
+\newblock ImageNet Classification with Deep Convolutional Neural
+  Networks\allowbreak[J].
+\newblock Communications of the ACM, 2017, 60\allowbreak (6): 84-90.
+
+\bibitem[Simonyan et~al.(2014)Simonyan and Zisserman]{Simonyan}
+Simonyan~K, Zisserman~A.
+\newblock Very Deep Convolutional Networks for Large-Scale Image
+  Recognition\allowbreak[EB/OL].
+\newblock \allowbreak(2014--9--4)\allowbreak[2015--4--10].
+\newblock \url{https://arxiv.org/abs/1409.1556}.
+
+\bibitem[{He} et~al.(2016){He}, {Zhang}, {Ren}, and {Sun}]{Kaiming}
+{He}~K, {Zhang}~X, {Ren}~S, et~al.
+\newblock Deep Residual Learning for Image
+  Recognition\allowbreak[C]//\allowbreak
+Proceedings of Computer Vision and Pattern Recogintion, {Las Vegas, USA}, 2016:
+  770-778.
+
+\bibitem[Ronneberger et~al.(2015)Ronneberger, Fischer, and Brox]{Ronneberger}
+Ronneberger~O, Fischer~P, Brox~T.
+\newblock U-Net: Convolutional Networks for Biomedical Image
+  Segmentation\allowbreak[C]//\allowbreak
+{Medical Image Computing and Computer-Assisted Intervention}, Munich, Germany,
+  2015: 234-241.
+
+\bibitem[葛道辉，李洪升，张亮，等(2020)]{GeDaohui}
+葛道辉，李洪升，张亮，等.
+\newblock 轻量级神经网络架构综述\allowbreak[J].
+\newblock 软件学报, 2020, 31\allowbreak (09): 2627-2653.
+
+\bibitem[Tian et~al.(2020)Tian, Fei, Zheng, Xu, Zuo, and Lin]{Chunwei}
+Tian~C, Fei~L, Zheng~W, et~al.
+\newblock Deep Learning on Image Denoising: An Overview\allowbreak[J].
+\newblock Neural Networks, 2020, 131\allowbreak (1): 251-275.
+
+\bibitem[Zhang et~al.(2017{\natexlab{a}})Zhang, Zuo, Chen, Meng, and
+  Zhang]{Kai}
+Zhang~K, Zuo~W, Chen~Y, et~al.
+\newblock Beyond a Gaussian Denoiser: Residual Learning of Deep {CNN} for Image
+  Denoising\allowbreak[J].
+\newblock IEEE Transactions on Image Processing, 2017{\natexlab{a}},
+  26\allowbreak (7): 3142-3155.
+
+\bibitem[Zhang et~al.(2017{\natexlab{b}})Zhang, Zuo, Gu, and Zhang]{ZhangKai}
+Zhang~K, Zuo~W, Gu~S, et~al.
+\newblock Learning Deep {CNN} Denoiser Prior for Image
+  Restoration\allowbreak[C]//\allowbreak
+{Proceedings of Computer Vision and Pattern Recognition}, {Honolulu, USA},
+  2017{\natexlab{b}}: 2808-2817.
+
+\bibitem[Ryu et~al.(2019)Ryu, Liu, Wang, Chen, Wang, and Yin]{Ernest}
+Ryu~E, Liu~J, Wang~S, et~al.
+\newblock Plug-and-Play Methods Provably Converge with Properly Trained
+  Denoisers\allowbreak[C]//\allowbreak
+Proceedings of International Conference on Machine Learning, Long Beach, USA,
+  2019: 5546-5557.
+
+\bibitem[Ono(2017)]{Shunsuke}
+Ono~S.
+\newblock Primal-Dual Plug-and-Play Image Restoration\allowbreak[J].
+\newblock {IEEE} Signal Processing Letters, 2017, 24\allowbreak (8): 1108-1112.
+
+\bibitem[Chan et~al.(2017)Chan, Wang, and Elgendy]{Stanley}
+Chan~S~H, Wang~X, Elgendy~O~A.
+\newblock Plug-and-Play {ADMM} for Image Restoration: Fixed-Point Convergence
+  and Applications\allowbreak[J].
+\newblock {IEEE} Transactions on Computational Imaging, 2017, 3\allowbreak (1):
+  84-98.
+
+\bibitem[Yang et~al.(2016)Yang, Sun, Li, and Xu]{Yan}
+Yang~Y, Sun~J, Li~H, et~al.
+\newblock Deep ADMM-Net for Compressive Sensing
+  {MRI}\allowbreak[C]//\allowbreak
+{Proceedings of Neural Information Processing Systems}, barcelona, Spain, 2016:
+  10-18.
+
+\bibitem[Shen et~al.(2018)Shen, Gonzalez, Chen, Jiang, and Jia]{Chenyang}
+Shen~C, Gonzalez~Y, Chen~L, et~al.
+\newblock Intelligent Parameter Tuning in Optimization-Based Iterative {CT}
+  Reconstruction via Deep Reinforcement Learning\allowbreak[J].
+\newblock {IEEE} Transactions on Medical Imaging, 2018, 37\allowbreak (6):
+  1430-1439.
+
+\bibitem[Hasselt et~al.(2016)Hasselt, Guez, and Silver]{Hasselt}
+Hasselt~H~V, Guez~A, Silver~D.
+\newblock Deep Reinforcement Learning with Double
+  Q-Learning\allowbreak[C]//\allowbreak
+Proceedings of Association for the Advance of Artificial Intelligence,
+  {Phoenix, USA}, 2016: 2094-2100.
+
+\bibitem[Schaul et~al.(2016)Schaul, Quan, Antonoglou, and Silver]{Schaul}
+Schaul~T, Quan~J, Antonoglou~I, et~al.
+\newblock Prioritized Experience Replay\allowbreak[C]//\allowbreak
+{International Conference on Learning Representations}, {San Juan, Puerto
+  Rico}, 2016: 1-21.
+
+\bibitem[Bellemare et~al.(2017)Bellemare, Dabney, and Munos]{Bellemare}
+Bellemare~M~G, Dabney~W, Munos~R.
+\newblock A Distributional Perspective on Reinforcement
+  Learning\allowbreak[C]//\allowbreak
+{Proceedings of International Conference on Learning Representations}, {Toulon,
+  France}, 2017: 449-458.
+
+\bibitem[Hessel et~al.(2018)Hessel, Modayil, van Hasselt, Schaul, Ostrovski,
+  Dabney, Horgan, Piot, Azar, and Silver]{Matteo}
+Hessel~M, Modayil~J, van Hasselt~H, et~al.
+\newblock Rainbow: Combining Improvements in Deep Reinforcement
+  Learning\allowbreak[C]//\allowbreak
+{Proceedings of Association for the Advance of Artificial Intelligence}, {New
+  Orleans, USA}, 2018: 3215-3222.
+
+\bibitem[Dabney et~al.(2018{\natexlab{a}})Dabney, Rowland, Bellemare, and
+  Munos]{Dabney1}
+Dabney~W, Rowland~M, Bellemare~M~G, et~al.
+\newblock Distributional Reinforcement Learning With Quantile
+  Regression\allowbreak[C]//\allowbreak
+{Proceedings of Association for the Advance of Artificial Intelligence}, {New
+  Orleans, USA}, 2018{\natexlab{a}}: 2892-2901.
+
+\bibitem[Dabney et~al.(2018{\natexlab{b}})Dabney, Ostrovski, Silver, and
+  Munos]{Dabney2}
+Dabney~W, Ostrovski~G, Silver~D, et~al.
+\newblock Implicit Quantile Networks for Distributional Reinforcement
+  Learning\allowbreak[C]//\allowbreak
+{Proceedings of International Conference on Machine Learning}, {Stockholm,
+  SWEDEN}, 2018{\natexlab{b}}: 1104-1113.
+
+\bibitem[Mnih et~al.(2015)Mnih, Kavukcuoglu, Silver, Rusu, Veness, Bellemare,
+  Graves, Riedmiller, Fidjeland, Ostrovski, Petersen, Beattie, Sadik,
+  Antonoglou, King, Kumaran, Wierstra, Legg, and Hassabis]{Volodymyr}
+Mnih~V, Kavukcuoglu~K, Silver~D, et~al.
+\newblock Human-level Control through Deep Reinforcement
+  Learning\allowbreak[J].
+\newblock Nature Communications, 2015, 518\allowbreak (7540): 529-533.
+
+\bibitem[Metzler et~al.(2016)Metzler, Maleki, and Baraniuk]{Metzler4}
+Metzler~C~A, Maleki~A, Baraniuk~R~G.
+\newblock {BM3D-PRGAMP:} Compressive Phase Retrieval Based on {BM3D}
+  Denoising\allowbreak[C]//\allowbreak
+{Proceedings of International Conference on Image Processing}, Phoenix, USA,
+  2016: 2504-2508.
+
+\bibitem[Bigdeli et~al.(2018)Bigdeli and Zwicker]{Siavash}
+Bigdeli~S~A, Zwicker~M.
+\newblock Image Restoration using Autoencoding
+  Priors\allowbreak[C]//\allowbreak
+International Conference on Computer Vision Theory and Applications, Funchal
+  Madeira, Portugal, 2018: 33-44.
+
+\bibitem[Wang et~al.(2018)Wang, Liu, Zhou, and cYuhao Wang]{Yankun}
+Wang~Y, Liu~Q, Zhou~H, et~al.
+\newblock Learning Multi-denoising Autoencoding Priors for Image
+  Super-resolution\allowbreak[J].
+\newblock Journal of Visual Communication and Image Representation, 2018,
+  57\allowbreak (1): 152-162.
+
+\bibitem[{Liu} et~al.(2020{\natexlab{b}}){Liu}, {Zhang}, {Liu}, {Xiao},
+  {Zheng}, {Ying}, and {Wang}]{Zhang}
+{Liu}~X, {Zhang}~M, {Liu}~Q, et~al.
+\newblock Multi-Contrast Mr Reconstruction with Enhanced Denoising Autoencoder
+  Prior Learning\allowbreak[C]//\allowbreak
+Proceedings of International Symposium on Biomedical Imaging, Iowa City, USA,
+  2020{\natexlab{b}}: 1-5.
+
+\bibitem[Romano et~al.(2017)Romano, Elad, and Milanfar]{Romano}
+Romano~Y, Elad~M, Milanfar~P.
+\newblock The Little Engine That Could: Regularization by Denoising
+  {(RED)}\allowbreak[J].
+\newblock SIAM Journal on Imaging Sciences, 2017, 10\allowbreak (4): 1804-1844.
+
+\bibitem[Hong et~al.(2019)Hong, Romano, and Elad]{Hong}
+Hong~T, Romano~Y, Elad~M.
+\newblock Acceleration of RED via Vector Extrapolation\allowbreak[J].
+\newblock Journal of Visual Communication and Image Representation, 2019,
+  63\allowbreak (1): 102-575.
+
+\bibitem[Wu et~al.(2019)Wu, Sun, Liu, and Kamilov]{Zihui}
+Wu~Z, Sun~Y, Liu~J, et~al.
+\newblock Online Regularization by Denoising with Applications to Phase
+  Retrieval\allowbreak[C]//\allowbreak
+Proceedings of International Conference on Computer Vision, Seoul, South Korea,
+  2019: 3887-3895.
+
+\bibitem[Buzzard et~al.(2018)Buzzard, Chan, Sreehari, and Bouman]{Gregery}
+Buzzard~G~T, Chan~S~H, Sreehari~S, et~al.
+\newblock Plug-and-Play Unplugged: Optimization-Free Reconstruction Using
+  Consensus Equilibrium\allowbreak[J].
+\newblock SIAM Journal on Imaging Sciences, 2018, 11\allowbreak (3): 2001-2020.
+
+\bibitem[Choi et~al.(2019)Choi, Elgendy, and Chan]{Joon}
+Choi~J~H, Elgendy~O~A, Chan~S~H.
+\newblock Optimal Combination of Image Denoisers\allowbreak[J].
+\newblock IEEE Transactions on Image Processing, 2019, 28\allowbreak (8):
+  4016-4031.
+
+\bibitem[{Kamilov}(2016)]{Kamilov}
+{Kamilov}~U~S.
+\newblock Parallel Proximal Methods for Total Variation
+  Minimization\allowbreak[C]//\allowbreak
+Proceedings of International Conference on Acoustics, Speech and Signal
+  Processing, Shanghai, China, 2016: 4697-4701.
+
+\bibitem[Fazlyab et~al.(2019)Fazlyab, Robey, Hassani, Morari, and
+  Pappas]{Fazlyab}
+Fazlyab~M, Robey~A, Hassani~H, et~al.
+\newblock Efficient and Accurate Estimation of Lipschitz Constants for Deep
+  Neural Networks\allowbreak[EB/OL].
+\newblock \allowbreak(2019--6--12)\allowbreak[2021--3--15].
+\newblock \url{https://arxiv.org/abs/1906.04893}.
+
+\bibitem[Sun et~al.(2019)Sun, Wohlberg, and Kamilov]{Sun1}
+Sun~Y, Wohlberg~B, Kamilov~U~S.
+\newblock An Online Plug-and-Play Algorithm for Regularized Image
+  Reconstruction\allowbreak[J].
+\newblock IEEE Transactions on Computational Imaging, 2019, 5\allowbreak (3):
+  395-408.
+
+\bibitem[{Sun} et~al.(2020){Sun}, {Liu}, and {Kamilov}]{Sun2}
+{Sun}~Y, {Liu}~J, {Kamilov}~U~S.
+\newblock Block Coordinate Regularization by Denoising\allowbreak[J].
+\newblock IEEE Transactions on Computational Imaging, 2020, 6\allowbreak (1):
+  908-921.
+
+\bibitem[Buades et~al.(2011)Buades, Coll, and Morel]{Buades}
+Buades~A, Coll~B, Morel~J~M.
+\newblock {Non-Local Means Denoising}\allowbreak[J].
+\newblock {Image Processing On Line}, 2011, 1\allowbreak (1): 208-212.
+
+\bibitem[樊庆楠(2019)]{FanQingnan}
+樊庆楠.
+\newblock 基于深度学习的图像处理算法研究\allowbreak[D].
+\newblock 济南:山东大学博士学位论文, 2019: 26-79.
+
+\bibitem[Mahendran et~al.(2015)Mahendran and Vedaldi]{Mahendran}
+Mahendran~A, Vedaldi~A.
+\newblock Understanding Deep Image Representations by Inverting
+  Them\allowbreak[C]//\allowbreak
+{Proceedings of Internaltional Conference on Computer Vision and Pattern
+  Recogintion}, Boston, USA, 2015: 5188-5196.
+
+\end{thebibliography}
