@@ -6,11 +6,10 @@
 YSUThesis是“燕山大学硕士学位论文 LaTeX 模板”的缩写。最新版的 YSUhtesis 完全符合燕山大学 2021 年 6 月发布的最新学位论文撰写规范。
 
 ## YSUthesis核心要义
-🔸 数学（优化、定理）
-
-🔸 图表（画图对应的库必要，float）
-
-🔸 参考文献（可自己修改）
+🔸 数学（amsmath/amsthm/amssymb）
+🔸 图表（figure/tikz）
+🔸 算法（algorithm/algorithmic）
+🔸 参考文献（gbt7714）
 
 ## YSUthesis的意义
 
